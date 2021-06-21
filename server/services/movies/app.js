@@ -2,7 +2,7 @@ const express = require('express')
 const app = express()
 const PORT = process.env.PORT || 4001
 const cors = require('cors')
-const connect = require('./config/mongodb')
+const { connect } = require('./config/mongodb')
 const routes = require('./routes/index')
 const errorHandler = require('./middlewares/errorHandler')
 
