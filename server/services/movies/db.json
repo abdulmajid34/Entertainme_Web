@@ -1,0 +1,23 @@
+[
+    {
+        "title": "dragonball budokai",
+        "overview": "seorang pertapa bernama goku yang ingin menyelamatkan dunia",
+        "poster_path": "https://www.greenscene.co.id/wp-content/uploads/2019/06/Dragon-Ball-Super.jpg",
+        "popularity": 8.7,
+        "tags": ["adventure","comedy","action"]
+    },
+    {
+        "title": "black clover",
+        "overview": "seorang pemuda bernama asta yang ingin menjadi ksatria sihir",
+        "poster_path": "https://www.mainmain.id/uploads/post/2020/06/27/Black-Clover-1080x608.jpg.pagespeed_.ce_.9cqh0dxzoA_.jpg",
+        "popularity": 8.6,
+        "tags": ["adventure","comedy","action","drama"]
+    },
+    {
+        "title": "onePiece",
+        "overview": "Monkey D. Luffy ingin menjadi raja bajak laut",
+        "poster_path": "https://static.wikia.nocookie.net/onepiece/images/8/87/One_Piece_Anime_Logo.png/revision/latest?cb=20140921221019",
+        "popularity": 8.9,
+        "tags": ["adventure","comedy","action","drama","romance"]
+    }
+]
