@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Doraemon",
+        "overview": "petualangan nobita dan kawan kawan ke dunia kelinci",
+        "poster_path": "https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2020/08/06/942310047.jpg",
+        "popularity": 8.8,
+        "tags": ["adventure","comedy","action","romance"]
+    },
+    {
+        "title": "captain tsubasa",
+        "overview": "ingin menjadi pesepakbola terhebat didunia",
+        "poster_path": "https://img.panditfootball.com/large/Champions%20dan%20Europa/TsubasaOzora.jpg",
+        "popularity": 8.7,
+        "tags": ["adventure","comedy","action","drama"]
+    },
+    {
+        "title": "Ultraman",
+        "overview": "ingin menyelamatkan bumi",
+        "poster_path": "https://cdnaz.cekaja.com/media/2020/03/763_Artikel-CA20_-ultraman.jpg",
+        "popularity": 8.5,
+        "tags": ["adventure","comedy","action","drama","romance"]
+    }
+]
