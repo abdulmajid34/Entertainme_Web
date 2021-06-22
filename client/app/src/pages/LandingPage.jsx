@@ -9,7 +9,7 @@ function LandingPage() {
 				<div className="h-5/6 flex flex-row justify-center items-center">
 					<div className=" -mt-80">
 						<h1 className="text-6xl text-white">LK21ASLI</h1>
-						<Link to="/login">
+						<Link to="/home">
 							<button className=" bg-yellow-500 hover:bg-yellow-600 font-bold py-5 ml-16 px-7 rounded-2xl w-32 text-white m-5">
 								Let's Go
 							</button>
