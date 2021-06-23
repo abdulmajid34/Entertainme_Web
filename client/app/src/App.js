@@ -10,6 +10,7 @@ import Home from './pages/Home'
 import AddMovie from './pages/AddMovie'
 import DetailMovie from './pages/DetailMovie'
 import About from './pages/About';
+// import Cards from './template/Cards';
 
 
 function App() {

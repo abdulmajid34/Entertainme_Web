@@ -12,13 +12,13 @@ function Navbar() {
 
         <div className="sm:mb-0 self-center mr-16">
             <Link to="/home">
-                <span className="text-md text-white cursor-pointer hover:bg-yellow-600 font-bold px-1">Home</span>
+                <span className="text-md text-white cursor-pointer hover:bg-yellow-600 font-bold px-1 m-5">Home</span>
             </Link>
             <Link to="/favorites">
-                <span className="text-md text-white cursor-pointer hover:bg-yellow-600 font-bold px-1">Favorites</span>
+                <span className="text-md text-white cursor-pointer hover:bg-yellow-600 font-bold px-1 m-5">Favorites</span>
             </Link>
             <Link to="/create">
-                <span className="text-md text-white cursor-pointer hover:bg-yellow-600 font-bold px-1">AddMovies</span>
+                <span className="text-md text-white cursor-pointer hover:bg-yellow-600 font-bold px-1 m-5">AddMovies</span>
             </Link>
         </div>
         </nav>
