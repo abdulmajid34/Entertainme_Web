@@ -1,13 +1,13 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 
-function AddMovie() {
+function About() {
     return (
         <div>
             <Navbar />
-            <h1>Hello create</h1>
+            <h1>ini di about</h1>
         </div>
     )
 }
 
-export default AddMovie
+export default About
