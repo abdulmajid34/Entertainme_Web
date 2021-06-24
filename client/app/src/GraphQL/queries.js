@@ -8,6 +8,7 @@ query getData {
         overview
         poster_path
         popularity
+        
     }
     series {
         _id
@@ -15,6 +16,7 @@ query getData {
         overview
         poster_path
         popularity
+        
     }
 }
 `
