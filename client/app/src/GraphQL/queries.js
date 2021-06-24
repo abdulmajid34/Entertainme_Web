@@ -18,3 +18,16 @@ query getData {
     }
 }
 `
+
+export const GET_DETAIL = gql`
+query getDetail($input: ID) {
+    movie(_id: $input) {
+        _id
+        title
+        overview
+        poster_path
+        popularity
+        tags
+    }
+}
+`
